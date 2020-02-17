@@ -5,7 +5,7 @@ import android.graphics.drawable.Drawable
 import android.util.AttributeSet
 import android.widget.Button
 
-class BottomButton : Button {
+public class BottomButton : Button {
 
     constructor(context: Context) : super(context)
 
